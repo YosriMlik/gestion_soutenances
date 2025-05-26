@@ -15,7 +15,7 @@ A desktop application for managing thesis defense sessions and scheduling.
 
 ## Technologies Used
 
-- React for user interface
+- React + Bootstrap for UI/UX
 - SQLite database
 - Rust for backend
 
