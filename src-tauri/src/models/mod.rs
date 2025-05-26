@@ -1,0 +1,10 @@
+pub mod etudiant;
+pub mod invite;
+pub mod jury;
+pub mod jury_soutenance;
+pub mod invite_soutenance;
+pub mod pfe;
+pub mod classroom;
+pub mod soutenance;
+pub mod specialite;
+pub mod user;
